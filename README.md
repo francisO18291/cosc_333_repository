@@ -1,7 +1,7 @@
 # cosc_333_repository
 Analysis and Design Of Algorithms Assignment
 
-Name: Franci Miriithi
+Name: Francis Miriithi
 Reg No: EB3/67225/23
 
 Algorithm Description: Spreadsort
